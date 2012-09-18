@@ -1,0 +1,7 @@
+(ns sh.core-test
+  (:use clojure.test
+        sh.core))
+
+(deftest a-test
+  (testing "FIXME, I fail."
+    (is (= 0 1))))
