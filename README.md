@@ -4,9 +4,9 @@ A Clojure library designed to improve clojure.java.shell
 
 ## Usage
 
-Add this dependency to your project.clj: [cj "1.0.0-SNAPSHOT"]
+Add this dependency to your project.clj: [sh "0.1.0-SNAPSHOT"]
 
-(use 'sh.core)
+(use 'sh) ;Omg y u no respect two word namespacing best practice? because shorter.
 
 And now you can start doing stuff like:
 
