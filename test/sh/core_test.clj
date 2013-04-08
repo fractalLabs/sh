@@ -1,6 +1,6 @@
 (ns sh.core-test
   (:use clojure.test
-        sh.core))
+        sh))
 
 (deftest a-test
   (testing "FIXME, I pass."
